@@ -9,3 +9,7 @@ The purpose of the project is to select a database and apply machine learning, w
 The purpose of the project is to solve problem (here find solution to linear equations) with a genetic algorithm and with another simple one algorithm (e.g. brute force).
 [compare the effectiveness, algorithm optimization (mutation, crossover, population size, etc.)]
 Example: for n = 5 and result = 20 --> 𝑎 + 2𝑏 + 3𝑐 + 4𝑑 + 5𝑒 = 20. The algorithm has to find the proper values of the parameters 𝑎, 𝑏, 𝑐, 𝑑, 𝑒.
+
+3. Comparison Of Classifiers Project 
+The purpose of the project is to compare and test classifiers. 
+[database selection, database processing, comparison of known classifiers: naive bayes, k-nearest neighbors, decision tree classifier; analysis.]
